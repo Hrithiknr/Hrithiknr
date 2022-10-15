@@ -1,9 +1,9 @@
-![MasterHead](https://miro.medium.com/max/1400/0*seusRQCGcbB7aZ60)
+![MasterHead](https://miro.medium.com/max/1100/0*seusRQCGcbB7aZ60)
 <h1 align="center">Heyy 👋, I'm Hrithik N R</h1>
 <h3 align="center">Front End Developer</h3>
 
 
-<img align="right" alt="Coding" width="350" src=https://miro.medium.com/max/700/1*2HzFuOEwLuqy1NNmoSXSYQ.gif>
+<img align="right" alt="Coding" width="250" src=https://miro.medium.com/max/700/1*2HzFuOEwLuqy1NNmoSXSYQ.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithiknr&label=Profile%20views&color=0e75b6&style=flat" alt="hrithiknr" /> </p>
 
