@@ -1,13 +1,21 @@
-![MasterHead](https://miro.medium.com/max/1100/0*seusRQCGcbB7aZ60)
-<h1 align="center">Heyy 👋, I'm Hrithik N R</h1>
-<h3 align="center">Front End Developer</h3>
+
+<img align="right" alt="Coding" width="250" src=https://gifimage.net/wp-content/uploads/2017/11/emojis-gif-10.gif>
+
+<h1 align="center">◦•●  Heyy 👋, I'm Hrï†hïk N R  ●•◦</h1>
+<h3 align="right">           </h3>
+
+<h3 align="center">ⓕ𝓇ㄖŇ丅 𝒆𝐧𝔻 Ｄᗴν€𝕝ό𝕡𝓔ᖇ </h3>
+<h3 align="left">    ⚓   </h3>
 
 
-<img align="right" alt="Coding" width="250" src=https://miro.medium.com/max/700/1*2HzFuOEwLuqy1NNmoSXSYQ.gif>
+<img align="right" alt="Coding" width="250" src=https://gifimage.net/wp-content/uploads/2017/11/emojis-gif-10.gif>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithiknr&label=Profile%20views&color=0e75b6&style=flat" alt="hrithiknr" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hrithik_nr1" target="blank"><img src="https://img.shields.io/twitter/follow/hrithik_nr1?logo=twitter&style=for-the-badge" alt="hrithik_nr1" /></a> </p>
+
 
 - 📫 How to reach me **hrithikhruth15@gmail.com**
 
@@ -31,13 +39,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrithiknr&show_icons=true&locale=en" alt="hrithiknr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrithiknr&" alt="hrithiknr" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hrithiknr&show_icons=true&locale=en&layout=compact" alt="Hrithiknr"/></p><br><br><br><br>
+
 <h3 align="left">Support:</h3>
-
 <p><a href="https://www.buymeacoffee.com/Buy me a Coffie"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a Coffie" /></a></p><br><br>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrithiknr&show_icons=true&locale=en&layout=compact" alt="hrithiknr" /></p>
-
 
 
 
