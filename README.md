@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="220" src=https://gifimage.net/wp-content/uploads/2017/11/emojis-gif-10.gif>
+
 
 <h1 align="center">◦•●  Heyy 👋, I'm Hrï†hïk N R  ●•◦</h1>
 <h3 align="right">           </h3>
@@ -8,7 +8,7 @@
 <h3 align="left">    ⚓   </h3>
 
 
-<img align="right" alt="Coding" width="250" src=https://gifimage.net/wp-content/uploads/2017/11/emojis-gif-10.gif>
+
 
 
 
