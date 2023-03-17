@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">◦•●  Heyy 👋, I'm Hrï†hïk N R  ●•◦</h1>
+<h1 align="center">◦• Heyy 👋, I'm Hrï†hïk N R  •◦</h1>
 <h3 align="right">           </h3>
 
 <p align="center">
