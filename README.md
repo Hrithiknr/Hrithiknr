@@ -1,10 +1,10 @@
 
 
 
-<h1 align="center">◦• Heyy 👋, I'm Hrï†hïk N R  •◦</h1>
+<h1 align="left">Heyy 👋, I'm Hrï†hïk N R </h1>
 <h3 align="right">           </h3>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img alt="GIF" src="https://readme-typing-svg.herokuapp.com/?lines=ⓕ𝓇ㄖŇ丅+𝒆𝐧𝔻+Ｄᗴν€𝕝ό𝕡𝓔ᖇ&color=FF0000&size=22&duration=8000"/></a>
 </p> 
 
