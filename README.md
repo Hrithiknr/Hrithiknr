@@ -5,7 +5,7 @@
 <h3 align="right">           </h3>
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img alt="GIF" src="https://readme-typing-svg.herokuapp.com/?lines=Ƒɾօղէ+Ɛղժ+ᎠҽѵҽӀօքҽɾ&color=FF0000&size=22&duration=8000"/></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img alt="GIF" src="https://readme-typing-svg.herokuapp.com/?lines=Ƒɾօղէ+Ɛղժ+Ꭰҽѵҽlօքҽɾ&color=FF0000&size=22&duration=8000"/></a>
 </p> 
 
 <h3 align="left">    ⚓   </h3>
