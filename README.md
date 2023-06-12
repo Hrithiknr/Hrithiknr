@@ -3,14 +3,14 @@
 <h3 align="right">           </h3>
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img alt="GIF" src="https://readme-typing-svg.herokuapp.com/?lines=Ƒɾօղէ+Ɛղժ+Ꭰҽѵҽlօքҽɾ&color=FF0000&size=22&duration=8000"/></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img alt="GIF" src="https://readme-typing-svg.herokuapp.com/?lines=Ƒɾօղէ+Ɛղժ+Ꭰҽѵҽlօքҽɾ&color=#000000 &size=22&duration=8000"/></a>
 </p> 
 
 <h3 align="left">    ⚓   </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithiknr&label=Profile%20views&color=0e75b6&style=flat" alt="hrithiknr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithiknr&label=Profile%20views&color=000000&style=flat" alt="hrithiknr" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hrithik_nr1" target="blank"><img src="https://img.shields.io/twitter/follow/hrithik_nr1?logo=twitter&style=for-the-badge" alt="hrithik_nr1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hrithik_nr1" target="blank"><img src="https://img.shields.io/twitter/follow/hrithik_nr1?logo=twitter&style=for-the-badge" &theme=github_dark&alt="hrithik_nr1" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,7 +35,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hrithiknr&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="Hrithiknr"/></p><br><br><br><br><br>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Buy me a Coffie"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a Coffie" /></a></p><br><br><br><br>
+<p><a href="https://www.buymeacoffee.com/Buy me a Coffie"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" height="50" width="210" alt="Buy me a Coffee" /></a></p><br><br><br><br>
 
 - 📫 How to reach me **hrithikhruth15@gmail.com**<br><br>
 
