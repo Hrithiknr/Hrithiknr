@@ -28,11 +28,11 @@
 ## Github Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hrithiknr&theme=github_dark&no-frame=true&no-bg=false&margin-w=4)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrithiknr&theme=github_dark&show_icons=true&locale=en" alt="hrithiknr" /></p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrithiknr&theme=chartreuse-dark&show_icons=true&locale=en" alt="hrithiknr" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrithiknr&theme=github_dark&" alt="hrithiknr" /></p><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrithiknr&theme=chartreuse-dark&" alt="hrithiknr" /></p><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hrithiknr&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="Hrithiknr"/></p><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hrithiknr&theme=chartreuse-darkk&show_icons=true&locale=en&layout=compact" alt="Hrithiknr"/></p><br><br><br><br><br>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Buy me a Coffie"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" height="50" width="210" alt="Buy me a Coffee" /></a></p><br><br><br><br>
