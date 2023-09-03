@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="left">Hi there I'm Hrithik</h1>
 <a href="https://github.com/Hrithiknr">
-    <img style="border-radius: 10px;" align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400" height="300"/>
+    <img style="border-radius: 10px;" align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="330" height="300"/>
 </a>
 
 
@@ -24,7 +24,7 @@
 
  **- Programming Languages :** C, C++, Javascript, MySQL
  
- **- Relevant Concepts :**  Data Structures And Algorithms, OOPS,
+ **- Relevant Concepts :**  Data Structures And Algorithms, OOPS, CN, OS
 
  **- Knowledgeable Domains :**  HTML, CSS, ReactJS, MERN Stack
 
