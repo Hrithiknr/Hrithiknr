@@ -65,12 +65,13 @@
 <h3> Support: </h3>
 
 <p><a href="https://www.buymeacoffee.com/Buy me a Coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" height="50" width="210" alt="Buy me a Coffee" /></a></p><br><br><br>
+<p align="left"> <a href="https://twitter.com/hrithik_nr1" target="blank"><img src="https://img.shields.io/twitter/follow/hrithik_nr1?logo=twitter&style=for-the-badge" &theme=github_dark&alt="hrithik_nr1" /></a> </p>
 
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithiknr&label=Profile%20views&color=000000&style=flat" alt="hrithiknr" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hrithik_nr1" target="blank"><img src="https://img.shields.io/twitter/follow/hrithik_nr1?logo=twitter&style=for-the-badge" &theme=github_dark&alt="hrithik_nr1" /></a> </p>
+
 
 - 📫 How to reach me **hrithikhruth15@gmail.com**<br><br>
