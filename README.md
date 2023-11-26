@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **C++, Dsa, MySQL, React**
 
-- 👨‍💻You can find me here **([https://nrhrithik.netlify.app/](https://hrithiiknr.netlify.app/))**
+- 👨‍💻You can find me here **[https://nrhrithik.netlify.app/](https://hrithiiknr.netlify.app/)**
 
 - 📫 How to reach me **hrithikhruth15@gmail.com**
 
